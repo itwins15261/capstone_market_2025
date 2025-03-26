@@ -1,0 +1,27 @@
+/*
+데이터 지우는 법
+SET SQL_SAFE_UPDATES = 0;
+USE gjmarket;
+TRUNCATE TABLE users;
+DELETE TABLE users;
+SET SQL_SAFE_UPDATES = 1;
+*/
+
+USE gjmarket;
+SELECT * FROM users;
+
+USE gjmarket;
+SELECT * FROM posts;
+
+USE gjmarket;
+SELECT * FROM post_images;
+
+USE gjmarket;
+SELECT * FROM post_images;
+
+USE gjmarket;
+SELECT * FROM wishlists;
+
+
+DROP DATABASE gjmarket;
+CREATE DATABASE gjmarket;
