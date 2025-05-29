@@ -6,3 +6,4 @@
 
 ### [한루미팀 캡스톤 Github](https://github.com/ahntd/HSU_Capstone_25-1)
 ### [안드로이드 시연영상 Youtube](https://www.youtube.com/watch?v=7134dcT4Fh0)
+### [안드로이드 한루미마켓 Play Store](https://play.google.com/store/apps/details?id=com.hansung.capstone.hanlumi&pcampaignid=web_share)
